@@ -1,5 +1,5 @@
-# pgweb-responsi
-SITIMAN-Siaga Stunting Kota Manado
+# SITIMAN-Siaga Stunting Kota Manado
+pgweb-responsi 2024
 
 **Deskripsi Produk**
 Website GIS "Siaga Stunting Kota Manado" dirancang untuk memberikan solusi pemetaan dan pemantauan yang efektif terhadap masalah stunting di Kota Manado. Penggunaan teknologi WebGIS pada platform ini memungkinkan pengguna untuk mengakses informasi geografis terkait kasus stunting secara visual yang tersebar di keseluruhan Kota Manado.
