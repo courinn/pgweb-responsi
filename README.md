@@ -56,3 +56,18 @@ Stunting adalah kondisi gangguan pertumbuhan pada anak yang diakibatkan oleh kek
 **Sumber Data**
 Data diperoleh dari Geoportal Kota Manado (https://geoportal.manadokota.go.id/) dengan rentang penggunaan data tahun 2022 hingga tahun 2024.
 
+![Screenshot (18071)](https://github.com/user-attachments/assets/f73dfbe0-14a7-455e-af7d-0adaef0af0c0)
+![image](https://github.com/user-attachments/assets/369921a3-0fd8-4590-a4f3-ef6995592dd3)
+![image](https://github.com/user-attachments/assets/126f0091-e03f-4d5e-a556-37d3c8356244)
+![image](https://github.com/user-attachments/assets/02da90af-302f-4ee2-8879-a30f71b59826)
+![Screenshot (18046)](https://github.com/user-attachments/assets/99a210b1-858e-4a20-aa4e-6f38c838e981)
+![Screenshot (18070)](https://github.com/user-attachments/assets/9121ec8f-2f60-43c3-ad15-be22a7de1fc7)
+![Screenshot (18067)](https://github.com/user-attachments/assets/a63dd721-af71-4f81-9878-71da36f83c3b)
+
+
+
+
+
+
+
+
